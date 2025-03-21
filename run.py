@@ -1,5 +1,5 @@
 from utils.io import Meta2pose_args
-from Meta2pose import Meta2Pose
+from meta2pose import Meta2Pose
 import tyro
 import numpy as np
 

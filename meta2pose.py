@@ -52,8 +52,8 @@ class Meta2Pose:
                         }
         self.markers_3d = markers_3d_dict
         self.markers_2d = out_dict
-        write_json_no_indent(out_dict, out_dir + '/2d_markers.json')
-        write_json_no_indent(markers_3d_dict, out_dir + '/3d_markers.json')
+        write_json(out_dict, out_dir + '/2d_markers.json')
+        write_json(markers_3d_dict, out_dir + '/3d_markers.json')
 
     def _meta2pose(self):
 
