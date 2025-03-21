@@ -109,11 +109,11 @@ python vis_poses.py \
 ### Example visualizations
 
 <p align="center">
-  <img src="./assets/67.png" width="300" alt="pose_000001" />
-  <img src="./assets/117.png" width="300" alt="pose_000002" />
-  <img src="./assets/169.png" width="300" alt="pose_000003" />
+  <img src="./assets/67.png" width="250" alt="pose_000001" />
+  <img src="./assets/117.png" width="250" alt="pose_000002" />
+  <img src="./assets/169.png" width="250" alt="pose_000003" />
   <br>
-  <img src="./assets/236.png" width="300" alt="pose_000004" />
-  <img src="./assets/296.png" width="300" alt="pose_000005" />
-  <img src="./assets/443.png" width="300" alt="pose_000006" />
+  <img src="./assets/236.png" width="250" alt="pose_000004" />
+  <img src="./assets/296.png" width="250" alt="pose_000005" />
+  <img src="./assets/443.png" width="250" alt="pose_000006" />
 </p>
