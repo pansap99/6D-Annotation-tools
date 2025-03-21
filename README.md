@@ -8,8 +8,6 @@ git clone --recurse-submodules https://github.com/pansap99/6D-Annotation-tools
 conda create -n 6dannot python=3.10 -y
 conda activate 6dannot
 pip install -r requirements.txt
-cd 6DL-PoseGenerator
-pip install -r requirements.txt
 ```
 
 2. Without submodules (No Visualization module):
