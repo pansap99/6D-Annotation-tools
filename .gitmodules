@@ -1,0 +1,3 @@
+[submodule "6DL-PoseGenerator"]
+	path = 6DL-PoseGenerator
+	url = https://github.com/POSE-Lab/6DL-PoseGenerator
